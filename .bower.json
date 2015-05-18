@@ -1,0 +1,17 @@
+{
+  "name": "jquery-browser-mobile",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tudor2004/jquery-browser-mobile",
+  "authors": [
+    "Tudor-Dan Ravoiu <tudor2004@yahoo.com>"
+  ],
+  "main": "jquery.browser.mobile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
